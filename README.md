@@ -7,4 +7,4 @@ You have to do almost nothing to use it but i'll still list the steps below-
 2. Go to the server.js file and replace "bot-token-here" with the token that you had copied before
 3. And now you can run it!
 
-# If you still have any doubts or erorrs you may join my [server](https://discord.gg/dmwBs6frJe)
+### If this worked for you you may star and fork it!! If you still have any doubts or erorrs you may join my [server](https://discord.gg/dmwBs6frJe)
