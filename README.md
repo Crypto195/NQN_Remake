@@ -2,8 +2,8 @@
 Easy to use NQN remake!
 
 
-![HowToDo](before.png)
-![HowToDo](after.png)
+![HowToDo](before.PNG)
+![HowToDo](after.PNG)
 
 
 You have to do almost nothing to use it but i'll still list the steps below-
