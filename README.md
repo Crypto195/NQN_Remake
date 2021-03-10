@@ -1,5 +1,6 @@
 # NQN_Remake
-This is a small function of my discord bot [Zeyron](https://dsc.gg/zeyron) and i thought i might open source it for you to use it!
+Easy to use NQN remake!
+
 
 
 You have to do almost nothing to use it but i'll still list the steps below-
