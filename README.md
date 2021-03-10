@@ -2,6 +2,9 @@
 Easy to use NQN remake!
 
 
+![HowToDo](before.jpg)
+![HowToDo](after.jpg)
+
 
 You have to do almost nothing to use it but i'll still list the steps below-
 1. Go to the [Discord Developer Portal](https://discord.com/developers/applications) and copy your token
