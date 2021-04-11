@@ -7,6 +7,13 @@ client.on("ready", () => {
   client.user.setActivity("with emojis");
 })
 
+client.commands = new discord.Collection();
+client.aliases = new discord.Collection();
+
+["command"].forEach(handler => {
+  require(`./handlers/${handler}`)(client);
+});
+
 client.on("message", async (message) => {
   if (message.author.bot) return;
   let msg = message.content;
