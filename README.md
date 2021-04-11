@@ -1,5 +1,5 @@
 # NQN_Remake
-Easy to use NQN remake!
+Easy to use NQN remake and emote manager!
 
 
 ![HowToDo](before.PNG)
