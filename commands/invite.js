@@ -9,7 +9,7 @@ module.exports = {
     
     let embed = new discord.MessageEmbed()
     .setTitle(`Invite me!`)
-    .setDescription(`[Invite Link](https://discord.com/api/oauth2/authorize?client_id=+`Client.user.id`+permissions=8&scope=bot) OR [Github Link](https://github.com/Crypto195/NQN_Remake)`)
+    .setDescription(`[Invite Link](https://discord.com/api/oauth2/authorize?client_id=+`Client.user.id`+permissions=8&scope=bot) | [Github Link](https://github.com/Crypto195/NQN_Remake)`)
     .setColor("RANDOM")
     .setFooter(`Bot by Crypto`)
     .setTimestamp(message.timestamp = Date.now())
