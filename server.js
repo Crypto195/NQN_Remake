@@ -5,7 +5,7 @@ let contentStart;
 let contentEnd;
 
 client.on("ready", () => {
-    console.log("Readt");
+    console.log("Ready");
 })
 
 client.on("message", async (message) => {
