@@ -1,6 +1,6 @@
 # NQN_Remake
 Easy to use NQN remake and emote manager!
-(Original Code)[https://github.com/CTK-WARRIOR/Not-Quite-Nitro-Using-Discord.JS]
+[Original Code](https://github.com/CTK-WARRIOR/Not-Quite-Nitro-Using-Discord.JS)
 
 
 ![HowToDo](before.PNG)
